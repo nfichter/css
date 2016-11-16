@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: #ffffff
+}
+
+a {
+    color: #89baff
+}
+
+h1 {
+    text-align: center;
+    color: #b7ffe2;
+    text-decoration: underline;
+    font-size: 40px
+}
+
+ul {
+    background: #ff9999;
+    padding: 10px
+}
+
+ul li {
+    background: white;
+    margin-left: 5px
+    padding: 5px
+}
