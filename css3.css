@@ -1,0 +1,17 @@
+.navzone {
+    font-family: "Century Gothic",sans-serif;
+}
+
+ul {
+	list-style-type: none;
+	margin: 5px;
+	padding: 5px;
+	width: 200px
+    }
+li a {
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+}
