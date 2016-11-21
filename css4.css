@@ -1,0 +1,17 @@
+p1:before {
+	content: "Prepare to read a paragraph! "
+	color: blue
+}
+
+p1:after {
+	content: "You just read a paragraph. "
+	color: red
+}
+
+ol {
+	margin: -10px
+}
+
+img {
+	border-radius: 5px
+}
